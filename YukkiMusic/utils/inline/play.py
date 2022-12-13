@@ -77,7 +77,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         [
             InlineKeyboardButton(
                        text="📡Join",
-                       url='https://t.me/Ayraupdates'), 
+                       url='https://t.me/WorldchattingGroup_x'), 
             InlineKeyboardButton(
                 text=_["CLOSEMENU_BUTTON"], callback_data="close"
             )
@@ -140,7 +140,7 @@ def stream_markup(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                        text="📡Join",
-                       url='https://t.me/Ayraupdates'), 
+                       url='https://t.me/WorldchattingGroup_x'), 
             InlineKeyboardButton(
                 text=_["CLOSEMENU_BUTTON"], callback_data="close"
             )
